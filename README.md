@@ -7,3 +7,6 @@
 - **Adversarial ML** (evasion, poisoning, stealing, backdoors)
 - **Quantitative finance** (trading strategies, risk models, fraud detection)
 - **MLOps security** (secure inference, model signing, drift monitoring)
+
+
+>**IMPORTANT:** The code is intended for educational and research purposes. Do not use it for attacks on real financial systems.
